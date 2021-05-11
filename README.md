@@ -8,6 +8,8 @@ Final project for ECON-5253, Data Science for Economists with Dr. Tyler Ransom
 | GitHub | [luke-denton](https://github.com/luke-denton) |
 | Sleep Deprived Status:| Yes |
 
+TR: I greatly enjoyed the Bio table.
+
 ## Replication of results ##
 
 1. Download the student.zip file from the UC Irvine ML Repository: [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00320/) or from the [Data](https://github.com/luke-denton/ECON5253_FinalProject/tree/main/Data) folder in this repository
